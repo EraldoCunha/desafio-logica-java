@@ -2,7 +2,7 @@
 Exercícios de lógica da programação em Java
 
 - [x]  1. Calcule a média de duas notas e mostre a média aritmética obtida.
-- [ ]  2. Leia o nome de uma pessoa, a sua idade e o seu salário, e mostre essas informações.
+- [x]  2. Leia o nome de uma pessoa, a sua idade e o seu salário, e mostre essas informações.
 - [ ]  3. Leia dois números, efetue as 4 operações matemáticas básicas e mostre os resultados.
 - [ ]  4. Duas variáveis (A e B) possuem valores distintos( A = 5 e B = 10). Crie um algoritmo que armazene estes dois valores nessas duas variáveis, e efetue a troca dos valores de forma que a variável A passe a possuir o valor de B e que a variável B passe a possuir o valor de A. Por fim, apresente estes valores trocados.
 - [ ]  5. O custo ao consumidor de um carro novo, é a soma do custo de fábrica com a percentagem do revendedor e com o custo dos impostos (aplicados ao custo de fábrica).Supondo que a percentagem do revendedor seja 25% e que os impostos custam 45% do custo de fábrica. Faça um algoritmo que leia o valor de custo de fábrica e determine o preço final do automóvel (preço ao consumidor).
