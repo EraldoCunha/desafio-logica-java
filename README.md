@@ -30,8 +30,9 @@ Exercícios de lógica da programação em Java
 - [ ]  27. Elabore um algoritmo que lê 3 valores a,b,c e os escreve. A seguir, encontre o maior dos 3 valores e o escreva com a mensagem: "O valor ... é o maior ".
 - [ ]  28. Elabore um algoritmo que lê 2 valores a e b e os escreva com a mensagem: "São múltiplos" ou "Não são múltiplos".
 - [ ]  29. Elabore um algoritmo que dada a idade de um nadador classifique-o em uma das seguintes categorias:
-| Categoria | Idade |
-| ---      | ---       | 
+
+|Categoria|Idade 
+|-----------|----------| 
 | infantil A | 5-7 anos |
 | infantil B | 8-10 anos |
 | juvenil A | 11-13 anos |
@@ -40,8 +41,9 @@ Exercícios de lógica da programação em Java
 - [ ]  30. Escreva um algoritmo que leia o RA (código) de um aluno e suas três notas. Calcule a média ponderada do aluno, considerando que o peso para a maior nota seja 4 e para as duas restantes, 3. Mostre o RA do aluno, suas três notas, a média calculada e uma mensagem "APROVADO" se a média for maior ou igual a 5 e "REPROVADO" se a média for menor que 5.
 - [ ]  31. Faça um algoritmo que leia um nº inteiro e mostre uma mensagem indicando se este número é par ou ímpar, e se é positivo ou negativo.
 - [ ]  32. O cardápio de uma lanchonete é o seguinte:
-| Especificação | Código | Preço |
-| ---      | ---       | ---      |
+
+|Especificação|Código|Preço|
+|-----------|-----------|-----------|
 | Cachorro quente | 100 | 1,20 |
 | Bauru simples | 101 | 1,30 |
 | Bauru com ovo | 102 | 1,50 |
@@ -50,14 +52,16 @@ Exercícios de lógica da programação em Java
 | Refrigerante | 105 | 1,00 |
     a. Escreva um algoritmo que leia o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item.
     b. Considerando o mesmo exercício, considere agora que o pedido final poderá incluir diversos itens.
-- [ ]  33. Tendo como dados de entrada a altura e o sexo de uma pessoa, M = masculino e F =
-feminino, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
-    a. para homens: (72.7*h) - 58
+- [ ]  33. Tendo como dados de entrada a altura e o sexo de uma pessoa, M = masculino e F = feminino, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
 
-    b. para mulheres: (62.1*h) - 44.7
+    a. para homens: (72.7*h) - 58.
+
+    b. para mulheres: (62.1*h) - 44.7.
+
 - [ ]  34. Um banco concederá um crédito especial aos seus clientes, variável com o saldo médio no último ano. Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito de acordo com a tabela abaixo. Mostre uma mensagem informando o saldo médio e o valor do crédito. (use o comando escolha-caso e não faça repetições)
-| Saldo médio | Percentual |
-| ---      | ---       | 
+
+|Saldo médio|Percentual|
+|-------------|------------| 
 | de 0 a 200 | nenhum crédito |
 | de 201 a 400 | 20% do valor do saldo médio |
 | de 401 a 600 | 30% do valor dosaldo médio |
