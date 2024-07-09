@@ -9,7 +9,7 @@ Exercícios de lógica da programação em Java
 - [x]  6. Um motorista deseja colocar no seu tanque X reais de gasolina. Escreva um algoritmo para ler o preço do litro da gasolina e o valor do pagamento, e exiba quantos litros ele conseguiu colocar no tanque.
 - [x]  7. O restaurante self-service BOMPRATO cobra R$14,00 por cada quilo de refeição. Escreva um algoritmo que leia o peso do prato montado pelo cliente (em quilos) e imprima o valor a pagar. Assuma que a balança já desconta o peso do prato (tara).
 - [x]  8. Entre com o dia e o mês de uma data e informe quantos dias se passaram desde o início do ano. Esqueça a questão dos anos bissextos e considere sempre que um mês possui 30 dias.
-- [ ]  9. Faça um algoritmo para ler três notas de um aluno em uma disciplina e imprima a sua média ponderada (as notas tem pesos respectivos de 1, 2 e 3).
+- [x]  9. Faça um algoritmo para ler três notas de um aluno em uma disciplina e imprima a sua média ponderada (as notas tem pesos respectivos de 1, 2 e 3).
 - [ ]  10. Uma fábrica de camisetas produz os tamanhos pequeno, médio e grande, cada uma sendo vendida respectivamente por 8, 10 e 15 reais. Construa um algoritmo em que o usuário forneça a quantidade de camisetas pequenas, médias e grandes referentes a uma venda, e a máquina informe quanto será o valor arrecadado.
 - [ ]  11. Construa um algoritmo para calcular a distância entre dois pontos do plano cartesiano. Cada ponto é um par ordenado (x,y).
 - [ ]  12. Uma fábrica controla o tempo de trabalho sem acidentes pela quantidade de dias. Faça um algoritmo para converter este tempo em anos, meses e dias. Assuma que cada mês possui sempre 30 dias.
