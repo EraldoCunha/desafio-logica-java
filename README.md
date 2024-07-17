@@ -17,7 +17,7 @@ Exercícios de lógica da programação em Java
 - [x]  14. Um cliente de um banco tem um saldo positivo de R$500,00. Faça um algoritmo que leia um cheque que entrou (compensado) e calcule o novo saldo, mostrando (escrevendo) o saldo na  tela.
 - [x]  15. Uma empresa de venda de softwares paga a seu vendedor um salário fixo de R$800,00 por mês, mais uma comissão de 15% pelo seu valor de vendas no mês. Faça um algoritmo que leia o valor da venda e determine o salário total do funcionário. Mostre as informações processadas.
 - [x]  16. Crie um algoritmo para calcular o salário liquido de um funcionário, considerando que seu salário bruto incide um desconto de 8,5% de INSS para a previdência. O algoritmo deve mostrar o nome do funcionário, o seu salário bruto, o valor de desconto de INSS e o seu salário liquido. (Dica: você deve pedir (ler) o nome do funcionário e o valor do seu salário bruto).
-- [ ]  17. Considerando que para um consórcio sabe-se o numero total de prestações, a quantidade de prestações pagas e o valor atual da prestação. Escreva um algoritmo que determine o total pago pelo consorciado e o saldo devedor.
+- [x]  17. Considerando que para um consórcio sabe-se o numero total de prestações, a quantidade de prestações pagas e o valor atual da prestação. Escreva um algoritmo que determine o total pago pelo consorciado e o saldo devedor.
 - [ ]  18. Declare 2 variáveis A e B, leia um valor para cada uma delas e disponibilize estes valores em ordem crescente.
 - [ ]  19. A imobiliária MOB vende apenas terrenos retangulares. Faça um algoritmo para ler as dimensões de um terreno e depois exibir a área do terreno.
 - [ ]  20. Faça um algoritmo para calcular quantas ferraduras são necessárias para equipar todos os cavalos comprados para um haras.
