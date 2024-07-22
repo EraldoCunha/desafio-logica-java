@@ -22,7 +22,7 @@ Exercícios de lógica da programação em Java
 - [x]  19. A imobiliária MOB vende apenas terrenos retangulares. Faça um algoritmo para ler as dimensões de um terreno e depois exibir a área do terreno.
 - [x]  20. Faça um algoritmo para calcular quantas ferraduras são necessárias para equipar todos os cavalos comprados para um haras.
 - [x]  21. A padaria PÃOQUENTE vende uma certa quantidade de pães franceses e uma quantidade de broas todo dia. Cada pãozinho custa R$ 0,35 e a broa custa R$ 1,50. Ao final do dia, o dono quer saber quanto arrecadou com a venda dos pães e broas (juntos), e quanto deve guardar numa conta de poupança (10% do total arrecadado). Você foi contratado para fazer os cálculos para o dono. Com base nesses fatos, faça um algoritmo para ler as quantidades de pães e broas, e depois calcule e mostre os dados solicitados.
-- [ ]  22. Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e mostrea expressa apenas em dias.
+- [x]  22. Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e mostrea expressa apenas em dias.
 - [ ]  23. Faça um algoritmo que leia a idade de uma pessoa expressa em dias e mostre-a expressa em anos, meses e dias.
 - [ ]  24. Faça um algoritmo que leia as 3 notas de um aluno e calcule a média final deste aluno. Considere que a média é ponderada e que o peso das notas é: 2,3 e 5, respectivamente.
 - [ ]  25. Faça um algoritmo que leia o tempo de duração de um evento em uma fábrica expressa em segundos e mostre-o expresso em horas, minutos e segundos.
