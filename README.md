@@ -24,7 +24,7 @@ Exercícios de lógica da programação em Java
 - [x]  21. A padaria PÃOQUENTE vende uma certa quantidade de pães franceses e uma quantidade de broas todo dia. Cada pãozinho custa R$ 0,35 e a broa custa R$ 1,50. Ao final do dia, o dono quer saber quanto arrecadou com a venda dos pães e broas (juntos), e quanto deve guardar numa conta de poupança (10% do total arrecadado). Você foi contratado para fazer os cálculos para o dono. Com base nesses fatos, faça um algoritmo para ler as quantidades de pães e broas, e depois calcule e mostre os dados solicitados.
 - [x]  22. Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e mostrea expressa apenas em dias.
 - [x]  23. Faça um algoritmo que leia a idade de uma pessoa expressa em dias e mostre-a expressa em anos, meses e dias.
-- [ ]  24. Faça um algoritmo que leia as 3 notas de um aluno e calcule a média final deste aluno. Considere que a média é ponderada e que o peso das notas é: 2,3 e 5, respectivamente.
+- [x]  24. Faça um algoritmo que leia as 3 notas de um aluno e calcule a média final deste aluno. Considere que a média é ponderada e que o peso das notas é: 2,3 e 5, respectivamente.
 - [ ]  25. Faça um algoritmo que leia o tempo de duração de um evento em uma fábrica expressa em segundos e mostre-o expresso em horas, minutos e segundos.
 - [ ]  26. Calcule a média aritmética das 3 notas de um aluno e mostre, além do valor da média, uma mensagem de "Aprovado", caso a média seja igual ou superior a 6,0 ou a mensagem "reprovado", caso contrário.
 - [ ]  27. Elabore um algoritmo que lê 3 valores a,b,c e os escreve. A seguir, encontre o maior dos 3 valores e o escreva com a mensagem: "O valor ... é o maior ".
