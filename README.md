@@ -29,7 +29,7 @@ Exercícios de lógica da programação em Java
 - [x]  26. Calcule a média aritmética das 3 notas de um aluno e mostre, além do valor da média, uma mensagem de "Aprovado", caso a média seja igual ou superior a 6,0 ou a mensagem "reprovado", caso contrário.
 - [x]  27. Elabore um algoritmo que lê 3 valores a,b,c e os escreve. A seguir, encontre o maior dos 3 valores e o escreva com a mensagem: "O valor ... é o maior ".
 - [x]  28. Elabore um algoritmo que lê 2 valores a e b e os escreva com a mensagem: "São múltiplos" ou "Não são múltiplos".
-- [ ]  29. Elabore um algoritmo que dada a idade de um nadador classifique-o em uma das seguintes categorias:
+- [x]  29. Elabore um algoritmo que dada a idade de um nadador classifique-o em uma das seguintes categorias:
 
 |Categoria|Idade 
 |-----------|----------| 
