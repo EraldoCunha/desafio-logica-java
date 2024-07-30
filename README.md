@@ -38,7 +38,7 @@ Exercícios de lógica da programação em Java
 | juvenil A | 11-13 anos |
 | juvenil B | 14-17 anos |
 | adulto | maiores de 18 ano |
-- [ ]  30. Escreva um algoritmo que leia o RA (código) de um aluno e suas três notas. Calcule a média ponderada do aluno, considerando que o peso para a maior nota seja 4 e para as duas restantes, 3. Mostre o RA do aluno, suas três notas, a média calculada e uma mensagem "APROVADO" se a média for maior ou igual a 5 e "REPROVADO" se a média for menor que 5.
+- [x]  30. Escreva um algoritmo que leia o RA (código) de um aluno e suas três notas. Calcule a média ponderada do aluno, considerando que o peso para a maior nota seja 4 e para as duas restantes, 3. Mostre o RA do aluno, suas três notas, a média calculada e uma mensagem "APROVADO" se a média for maior ou igual a 5 e "REPROVADO" se a média for menor que 5.
 - [ ]  31. Faça um algoritmo que leia um nº inteiro e mostre uma mensagem indicando se este número é par ou ímpar, e se é positivo ou negativo.
 - [ ]  32. O cardápio de uma lanchonete é o seguinte:
 
