@@ -63,6 +63,6 @@ public class Aluno {
 
 	@Override
 	public String toString() {
-		return "\nAluno RA= " + ra + "\nNotas= " + notas + "\nMedia= " + media + "\nO aluno(a) está " + status;
+		return "\nAluno RA= " + ra + "\nNotas= " + notas + "\nMedia= " + String.format("%.2f", media) + "\nO aluno(a) está " + status;
 	}
 }

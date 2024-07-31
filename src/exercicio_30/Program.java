@@ -15,9 +15,9 @@ public class Program {
 		long ra = sc.nextLong();
 		
 		System.out.println("Informe suas  três notas: ");
-		double nota1 = sc.nextLong();
-		double nota2 = sc.nextLong();
-		double nota3 = sc.nextLong();
+		double nota1 = sc.nextDouble();
+		double nota2 = sc.nextDouble();
+		double nota3 = sc.nextDouble();
 
 		Aluno aluno = new Aluno(ra, Arrays.asList(nota1, nota2, nota3));
 		
