@@ -52,7 +52,7 @@ Exercícios de lógica da programação em Java
 | Refrigerante | 105 | 1,00 |
     a. Escreva um algoritmo que leia o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item.
     b. Considerando o mesmo exercício, considere agora que o pedido final poderá incluir diversos itens.
-- [ ]  33. Tendo como dados de entrada a altura e o sexo de uma pessoa, M = masculino e F = feminino, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+- [x]  33. Tendo como dados de entrada a altura e o sexo de uma pessoa, M = masculino e F = feminino, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
 
     a. para homens: (72.7*h) - 58.
 
