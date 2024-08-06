@@ -80,7 +80,7 @@ Exercícios de lógica da programação em Java
 | 6548              | 2,37           |
 | 0987              | 5,32           |
 | 7623              | 6,45           |
-- [ ] 37. Um vendedor precisa de um algoritmo que calcula o preço total devido por um cliente. O algoritmo deve receber o código de um produto e a quantidade comprada e calcular o preço total, usando a tabela abaixo. Mostre uma mensagem no caso de código inválido.
+- [x] 37. Um vendedor precisa de um algoritmo que calcula o preço total devido por um cliente. O algoritmo deve receber o código de um produto e a quantidade comprada e calcular o preço total, usando a tabela abaixo. Mostre uma mensagem no caso de código inválido.
 
 | Código | Preço unitário |
 |--------|----------------|

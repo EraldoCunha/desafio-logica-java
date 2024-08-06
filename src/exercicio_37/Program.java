@@ -1,4 +1,4 @@
-package exercicio_36;
+package exercicio_37;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -11,8 +11,8 @@ public class Program {
 
 		Scanner sc = new Scanner(System.in);
 
-		List<Produto> produtos = new ArrayList<>(Arrays.asList(new Produto(1001, 5.32), new Produto(1324, 6.45),
-				new Produto(6548, 2.37), new Produto(987, 5.32), new Produto(7623, 6.45)));
+		List<Produto> produtos = new ArrayList<>(Arrays.asList(new Produto("ABCD", 5.30), new Produto("XYPK", 6.00),
+				new Produto("KLMP", 3.20), new Produto("QRST", 2.50)));
 
 		System.out.println("Produtos:");
 		for(Produto p : produtos) {
@@ -20,20 +20,23 @@ public class Program {
 		}
 
 		System.out.print("\nInforme o código do produto comprado: ");
-		int codigoProdutoComprado = sc.nextInt();
+		String codigoProdutoComprado = sc.nextLine();
 		System.out.print("Informe a quantidade do produto comprado: ");
 		int quantidadeProdutoComprado = sc.nextInt();
 
 		double precoTotal = 0;
+		boolean codigoValido = false;
 
 		for (Produto p : produtos) {
-			if (p.getCodigo() == codigoProdutoComprado) {
+			if (p.getCodigo().equalsIgnoreCase(codigoProdutoComprado)) {
 				precoTotal = p.getPreco() * quantidadeProdutoComprado;
+				codigoValido = true;
+				break;
 			}
 		}
 
-		if (precoTotal == 0) {
-			System.out.println("\nNumero de código ou quantidade inválida.");
+		if (!codigoValido) {
+			System.out.println("\nCódigo inválido!");
 		} else {
 			System.out.printf("\nO preço total dos produtos é de R$%.2f.", precoTotal);
 		}

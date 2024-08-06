@@ -1,16 +1,16 @@
-package exercicio_36;
+package exercicio_37;
 
 public class Produto {
 
-	private int codigo;
+	private String codigo;
 	private double preco;
-	
-	public Produto(int codigo, double preco) {
+
+	public Produto(String codigo, double preco) {
 		this.codigo = codigo;
 		this.preco = preco;
 	}
 
-	public int getCodigo() {
+	public String getCodigo() {
 		return codigo;
 	}
 
@@ -19,6 +19,6 @@ public class Produto {
 	}
 
 	public void imprimirProdutos() {
-		System.out.printf("Código= %d, Preço = R$%.2f%n" , codigo , preco);
+		System.out.printf("Código= %s, Preço = R$%.2f%n" , codigo , preco);
 	}
 }
