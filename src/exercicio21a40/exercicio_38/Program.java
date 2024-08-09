@@ -16,7 +16,7 @@ public class Program {
 
 		System.out.print("Informe seu cargo: ");
 		String cargo = sc.nextLine();
-		System.out.print("Informe seu sal·rio: ");
+		System.out.print("Informe seu sal√°rio: ");
 		double salario = sc.nextDouble();
 
 		Funcionario funcionario = new Funcionario(cargo, salario);
@@ -33,7 +33,7 @@ public class Program {
 			funcionario.setSalarioAtualizado((funcionario.getSalarioAntigo() * 40 / 100) + funcionario.getSalarioAntigo());
 		}
 		
-		System.out.printf("\nCargo = %s%nSal·rio Antigo = R$%.2f%nSal·rio Atualizado = R$%.2f%nDiferenÁa = R$%.2f", funcionario.getCargo()
+		System.out.printf("\nCargo = %s%nSal√°rio Antigo = R$%.2f%nSal√°rio Atualizado = R$%.2f%nDiferen√ßa = R$%.2f", funcionario.getCargo()
 				, funcionario.getSalarioAntigo()
 				, funcionario.getSalarioAtualizado()
 				, funcionario.calcularDiferenca());

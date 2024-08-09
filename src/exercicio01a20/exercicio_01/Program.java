@@ -21,7 +21,7 @@ public class Program {
 		
 		media = (nota1 + nota2) / 2;
 		
-		System.out.printf("Média das nota: %.1f%n" , media);
+		System.out.printf("MÃ©dia das nota: %.1f%n" , media);
 		
 		sc.close();
 	}
