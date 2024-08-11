@@ -101,7 +101,7 @@ Exercícios de lógica da programação em Java
 
 - [x] 40. Escreva um algoritmo que lê a hora de início de um jogo e a hora do final do jogo (considerando apenas horas inteiras) e calcule a duração do jogo em horas, sabendo-se que o tempo máximo de duração do jogo é de 24 horas e que o jogo pode iniciar em um dia e terminar no dia seguinte.
 
-- [ ] 41. Escreva um algoritmo que lê um conjunto de 4 valores i, a, b, c, onde i é um valor inteiro e positivo e a, b, c, são quaisquer valores reais e os escreva. A seguir:
+- [x] 41. Escreva um algoritmo que lê um conjunto de 4 valores i, a, b, c, onde i é um valor inteiro e positivo e a, b, c, são quaisquer valores reais e os escreva. A seguir:
 
 > a) Se i=1 escreva os três valores a, b, c em ordem crescente.
 > 
