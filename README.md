@@ -109,7 +109,7 @@ Exercícios de lógica da programação em Java
 > 
 > c) Se i=3 escreva os três valores a, b, c de forma que o maior entre a, b, c fique dentre os dois.
 
-- [ ] 42. Escreva um algoritmo que lê um valor em reais e calcule o menor número possível de notas de 100, 50, 10, 5 e 1 em que o valor lido pode ser decomposto. Escreva o valor lido e a relação de notas necessárias.
+- [x] 42. Escreva um algoritmo que lê um valor em reais e calcule o menor número possível de notas de 100, 50, 10, 5 e 1 em que o valor lido pode ser decomposto. Escreva o valor lido e a relação de notas necessárias.
 
 - [ ] 43. Escreva um algoritmo que leia:
 - A percentagem do IPI a ser acrescido no valor das peças automotivas
