@@ -111,7 +111,7 @@ Exercícios de lógica da programação em Java
 
 - [x] 42. Escreva um algoritmo que lê um valor em reais e calcule o menor número possível de notas de 100, 50, 10, 5 e 1 em que o valor lido pode ser decomposto. Escreva o valor lido e a relação de notas necessárias.
 
-- [ ] 43. Escreva um algoritmo que leia:
+- [x] 43. Escreva um algoritmo que leia:
 - A percentagem do IPI a ser acrescido no valor das peças automotivas
 - Código da peça 1, valor unitário da peça 1, quantidade de peças 1
 - Código da peça 2, valor unitário da peça 2, quantidade de peças 2
