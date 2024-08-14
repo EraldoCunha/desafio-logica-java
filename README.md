@@ -120,7 +120,7 @@ O algoritmo deve calcular o valor total a ser pago e apresentar o resultado.
 - Fórmula: `(valor1 * quant1 + valor2 * quant2) * (IPI / 100 + 1)`
 
 - [x] 44. Escreva um algoritmo que leia a hora de início e hora de término de um jogo, ambas subdivididas em dois valores distintos: horas e minutos. Calcule e escreva a duração do jogo, também em horas e minutos, considerando que o tempo máximo de duração de um jogo é de 24 horas e que o jogo pode iniciar em um dia e terminar no dia seguinte.
-- [ ] 45. Escreva um algoritmo que leia o número de identificação, as 3 notas obtidas por um aluno nas 3 verificações e a média dos exercícios que fazem parte da avaliação. Calcule a média de aproveitamento, usando a fórmula:
+- [x] 45. Escreva um algoritmo que leia o número de identificação, as 3 notas obtidas por um aluno nas 3 verificações e a média dos exercícios que fazem parte da avaliação. Calcule a média de aproveitamento, usando a fórmula:
 
 - MA = `(Nota1 + Nota2 x 2 + Nota3 x 3 + ME) / 7`
 

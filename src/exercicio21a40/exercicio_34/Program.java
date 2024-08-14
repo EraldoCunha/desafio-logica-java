@@ -10,31 +10,31 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		System.out.print("Informe seu saldo médio no ultimo ano: ");
+		System.out.print("Informe seu saldo mÃ©dio no ultimo ano: ");
 		double saldoMedio = sc.nextDouble();
 		String credito;
 
 		switch ((int) ((saldoMedio - 1) / 200)) {
 		case 0:
-			credito = "nenhum crédito";
+			credito = "nenhum crÃ©dito";
 			break;
 		case 1:
-			credito = "20% do valor do saldo médio";
+			credito = "20% do valor do saldo mÃ©dio";
 			break;
 		case 2:
 		case 3:
 			if (saldoMedio > 600) {
-				credito = "40% do valor do saldo médio";
+				credito = "40% do valor do saldo mÃ©dio";
 			} else {
-				credito = "30% do valor do saldo médio";
+				credito = "30% do valor do saldo mÃ©dioo";
 			}
 			break;
 		default:
-			credito = "40% do valor do saldo médio";
+			credito = "40% do valor do saldo mÃ©dio";
 			break;
 		}
 
-		System.out.printf("Seu saldo médio foi de R$%.2f%nVocê terá direito a %s", saldoMedio, credito);
+		System.out.printf("Seu saldo mÃ©dio foi de R$%.2f%nVocÃª terÃ¡ direito a %s", saldoMedio, credito);
 
 		sc.close();
 	}
