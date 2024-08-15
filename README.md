@@ -31,7 +31,7 @@ Exercícios de lógica da programação em Java
 - [x]  28. Elabore um algoritmo que lê 2 valores a e b e os escreva com a mensagem: "São múltiplos" ou "Não são múltiplos".
 - [x]  29. Elabore um algoritmo que dada a idade de um nadador classifique-o em uma das seguintes categorias:
 
-|Categoria|Idade 
+|Categoria|Idade| 
 |-----------|----------| 
 | infantil A | 5-7 anos |
 | infantil B | 8-10 anos |
