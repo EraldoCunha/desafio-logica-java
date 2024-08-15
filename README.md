@@ -136,7 +136,7 @@ A atribuição de conceitos obedece a tabela abaixo:
 
 O algoritmo deve escrever o número do aluno, suas notas, a média dos exercícios, a média de aproveitamento, o conceito correspondente e a mensagem: APROVADO se o conceito for A, B ou C e REPROVADO se o conceito for D ou E.
 
-- [ ] 46. O departamento que controla o índice de poluição do meio ambiente mantém 3 grupos de indústrias que são altamente poluentes do meio ambiente. O índice de poluição aceitável varia de 0,05 até 0,25. Se o índice sobe para 0,3, as indústrias do 1º grupo são intimadas a suspenderem suas atividades; se o índice cresce para 0,4, as do 1º e 2º grupo são intimadas a suspenderem suas atividades; e se o índice atingir 0,5, todos os 3 grupos devem ser notificados a paralisarem suas atividades. Escreva um algoritmo que lê o índice de poluição medido e emite a notificação adequada aos diferentes grupos de empresas.
+- [x] 46. O departamento que controla o índice de poluição do meio ambiente mantém 3 grupos de indústrias que são altamente poluentes do meio ambiente. O índice de poluição aceitável varia de 0,05 até 0,25. Se o índice sobe para 0,3, as indústrias do 1º grupo são intimadas a suspenderem suas atividades; se o índice cresce para 0,4, as do 1º e 2º grupo são intimadas a suspenderem suas atividades; e se o índice atingir 0,5, todos os 3 grupos devem ser notificados a paralisarem suas atividades. Escreva um algoritmo que lê o índice de poluição medido e emite a notificação adequada aos diferentes grupos de empresas.
 
 - [ ] 47. Escreva um algoritmo que leia 5 valores, um de cada vez, e conte quantos destes valores são negativos, escrevendo esta informação.
 
