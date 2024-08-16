@@ -138,7 +138,7 @@ O algoritmo deve escrever o número do aluno, suas notas, a média dos exercíci
 
 - [x] 46. O departamento que controla o índice de poluição do meio ambiente mantém 3 grupos de indústrias que são altamente poluentes do meio ambiente. O índice de poluição aceitável varia de 0,05 até 0,25. Se o índice sobe para 0,3, as indústrias do 1º grupo são intimadas a suspenderem suas atividades; se o índice cresce para 0,4, as do 1º e 2º grupo são intimadas a suspenderem suas atividades; e se o índice atingir 0,5, todos os 3 grupos devem ser notificados a paralisarem suas atividades. Escreva um algoritmo que lê o índice de poluição medido e emite a notificação adequada aos diferentes grupos de empresas.
 
-- [ ] 47. Escreva um algoritmo que leia 5 valores, um de cada vez, e conte quantos destes valores são negativos, escrevendo esta informação.
+- [x] 47. Escreva um algoritmo que leia 5 valores, um de cada vez, e conte quantos destes valores são negativos, escrevendo esta informação.
 
 - [ ] 48. A prefeitura de uma cidade fez uma pesquisa entre seus habitantes, coletando dados sobre o salário e número de filhos. A prefeitura deseja saber:
 
