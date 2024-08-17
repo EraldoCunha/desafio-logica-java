@@ -140,7 +140,7 @@ O algoritmo deve escrever o número do aluno, suas notas, a média dos exercíci
 
 - [x] 47. Escreva um algoritmo que leia 5 valores, um de cada vez, e conte quantos destes valores são negativos, escrevendo esta informação.
 
-- [ ] 48. A prefeitura de uma cidade fez uma pesquisa entre seus habitantes, coletando dados sobre o salário e número de filhos. A prefeitura deseja saber:
+- [x] 48. A prefeitura de uma cidade fez uma pesquisa entre seus habitantes, coletando dados sobre o salário e número de filhos. A prefeitura deseja saber:
 
 > a. Média do salário da população
 > 
