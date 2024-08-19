@@ -155,3 +155,113 @@ O algoritmo deve escrever o número do aluno, suas notas, a média dos exercíci
 - [x] 49. Chico tem 1,50 metro e cresce 2 centímetros por ano, enquanto Zé tem 1,10 metro e cresce 3 centímetros por ano. Construa um algoritmo que calcule e imprima quantos anos serão necessários para que Zé seja maior que Chico.
 
 - [x] 50. Construa um algoritmo que calcule a média aritmética de vários valores inteiros positivos, lidos externamente. O final da leitura acontecerá quando for lido um valor negativo.
+
+- [ ] 51. Em uma eleição presidencial existem quatro candidatos. Os votos são informados através de
+códigos. Os dados utilizados para a contagem dos votos obedecem à seguinte codificação:
+>a. 1,2,3,4 = voto para os respectivos candidatos;
+>
+>b. 5 = voto nulo;
+>
+>c. 6 = voto em branco;
+
+- [ ] 52. Elabore um algoritmo que leia o código do candidato em um voto. Calcule e escreva:
+>a. total de votos para cada candidato;
+>
+>b. total de votos nulos;
+>
+>c. total de votos em branco;
+>
+>Como finalizador do conjunto de votos, tem-se o valor 0.
+
+- [ ] 53. Escreva um algoritmo que calcule a média aritmética das 3 notas dos alunos de uma classe. O
+algoritmo deverá ler, além das notas, o código do aluno e deverá ser encerrado quando o
+código for igual a zero.
+
+- [ ] 54. Escreva um algoritmo que calcule a média dos números digitados pelo usuário desde que eles
+sejam pares. Termine a leitura se o usuário digitar zero (0).
+
+- [ ] 55. Escreva um algoritmo que leia 50 valores e encontre o maior e o menor deles. Mostre o
+resultado.
+
+- [ ] 56. Escreva um algoritmo que leia o código de um aluno e suas três notas. Calcule a média
+ponderada do aluno, considerando que o peso para a maior nota seja 4 e para as duas
+restantes, 3. Mostre o código do aluno, suas três notas, a média calculada e uma mensagem
+"APROVADO" se a média for maior ou igual a 5 e "REPROVADO" se a média for menor que
+5. Repita a operação até que o código lido seja negativo.
+
+- [ ] 57. Escreva um algoritmo que leia um número n (número de termos de uma progressão
+aritmética), a1 (o primeiro termo da progressão) e r (a razão da progressão) e escreva
+os n termos desta progressão, bem como a soma dos elementos.
+
+- [ ] 58. Escreva um algoritmo que leia 20 valores para uma variável n e, para cada um deles, calcule a
+tabuada de 1 até n. Mostre a tabuada na forma:
+>i. 1 x n = n
+>
+>ii. 2 x n = 2n
+>
+>iii. 3 x n = 3n
+>
+>iv. .......
+>
+>v. n x n = n2
+
+- [ ] 59. Escreva um algoritmo que leia um número n que indica quantos valores devem ser lidos a
+seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial deste valor.
+
+- [ ] 60. Escreva um algoritmo que leia um número não determinado de valores e calcule a média
+aritmética dos valores lidos, a quantidade de valores positivos, a quantidade de valores
+negativos e o percentual de valores negativos e positivos. Mostre os resultados.
+
+- [ ] 61. Escreva um algoritmo que leia uma quantidade desconhecida de números e conte quantos
+deles estão nos seguintes intervalos: [0-25], [26-50], [51-75] e [76-100]. A entrada de dados
+deve terminar quando for lido um número negativo.
+
+- [ ] 62. Escreva um algoritmo que leia um conjunto não determinado de valores, um de cada vez, e
+escreve uma tabela com cabeçalho, que deve ser repetida a cada 20 linhas. A tabela conterá
+o valor lido, seu quadrado, seu cubo e sua raiz quadrada.
+
+- [ ] 63. Escreva um algoritmo que leia um número não determinado de pares de valores m,n, todos
+inteiros e positivos, um par de cada vez, e calcula e escreve a soma dos n inteiros
+consecutivos a partir de m inclusive.
+
+- [ ] 64. Escreva um algoritmo que leia um número não determinado de valores para m, todos inteiros
+e positivos, um de cada vez. Se m for par, verifique quantos divisores possui e escreva esta
+informação. Se m for ímpar e menor do que 10 calcule e escreva o fatorial de m. Se m for
+ímpar e maior ou igual a 10, calcule e escreva a soma dos inteiros de 1 até m.
+
+- [ ] 65. Faça um algoritmo que leia uma quantidade não determinada de números positivos. Calcule a
+quantidade de números pares e ímpares, a média de valores pares e a média geral dos
+números lidos. O número que encerrará a leitura será zero.
+
+- [ ] 66. Faça um algoritmo que leia vários números inteiros e calcule o somatório dos números
+negativos. O fim da leitura será indicado pelo número 0.
+
+- [ ] 67. Faça um algoritmo que leia vários números inteiros e positivos e calcule o produto dos
+números pares. O fim da leitura será indicado pelo número 0.
+
+- [ ] 68. Foi feita uma pesquisa entre os habitantes de uma região. Foram coletados os dados de
+idade, sexo (M/F) e salário. Faça um algoritmo que informe:
+>a. a média de salário do grupo;
+>
+>b. maior e menor idade do grupo;
+>
+>c. quantidade de mulheres com salário até R$100,00.
+
+- [ ] 69. Encerre a entrada de dados quando for digitada uma idade negativa. (Use o comando
+enquanto-faça e não use vetores ou matrizes)
+
+- [ ] 70. Foi realizada uma pesquisa de algumas características físicas da população de uma certa
+região, a qual coletou os seguintes dados referentes a cada habitante para serem analisados:
+>a. sexo (masculino e feminino)
+>
+>b. cor dos olhos (azuis, verdes ou castanhos)
+>
+>c. cor dos cabelos ( louros, castanhos, pretos)
+>
+>d. idade
+Faça um algoritmo que determine e escreva:
+>e. a maior idade dos habitantes
+>
+>f. a quantidade de indivíduos do sexo feminino cuja idade estiver entre 18 e 35 anos inclusive e que tenham olhos verdes e cabelos louros.
+
+O final do conjunto de habitantes é reconhecido pelo valor -1 entrada como idade.
