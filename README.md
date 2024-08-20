@@ -156,7 +156,7 @@ O algoritmo deve escrever o número do aluno, suas notas, a média dos exercíci
 
 - [x] 50. Construa um algoritmo que calcule a média aritmética de vários valores inteiros positivos, lidos externamente. O final da leitura acontecerá quando for lido um valor negativo.
 
-- [ ] 51. Em uma eleição presidencial existem quatro candidatos. Os votos são informados através de
+- [x] 51. Em uma eleição presidencial existem quatro candidatos. Os votos são informados através de
 códigos. Os dados utilizados para a contagem dos votos obedecem à seguinte codificação:
 >a. 1,2,3,4 = voto para os respectivos candidatos;
 >
