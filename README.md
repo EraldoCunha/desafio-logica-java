@@ -164,7 +164,7 @@ códigos. Os dados utilizados para a contagem dos votos obedecem à seguinte cod
 >
 >c. 6 = voto em branco;
 
-- [ ] 52. Elabore um algoritmo que leia o código do candidato em um voto. Calcule e escreva:
+- [x] 52. Elabore um algoritmo que leia o código do candidato em um voto. Calcule e escreva:
 >a. total de votos para cada candidato;
 >
 >b. total de votos nulos;
