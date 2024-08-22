@@ -173,7 +173,7 @@ códigos. Os dados utilizados para a contagem dos votos obedecem à seguinte cod
 >
 >Como finalizador do conjunto de votos, tem-se o valor 0.
 
-- [ ] 53. Escreva um algoritmo que calcule a média aritmética das 3 notas dos alunos de uma classe. O
+- [x] 53. Escreva um algoritmo que calcule a média aritmética das 3 notas dos alunos de uma classe. O
 algoritmo deverá ler, além das notas, o código do aluno e deverá ser encerrado quando o
 código for igual a zero.
 
