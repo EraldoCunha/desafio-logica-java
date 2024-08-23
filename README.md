@@ -177,7 +177,7 @@ códigos. Os dados utilizados para a contagem dos votos obedecem à seguinte cod
 algoritmo deverá ler, além das notas, o código do aluno e deverá ser encerrado quando o
 código for igual a zero.
 
-- [ ] 54. Escreva um algoritmo que calcule a média dos números digitados pelo usuário desde que eles
+- [x] 54. Escreva um algoritmo que calcule a média dos números digitados pelo usuário desde que eles
 sejam pares. Termine a leitura se o usuário digitar zero (0).
 
 - [ ] 55. Escreva um algoritmo que leia 50 valores e encontre o maior e o menor deles. Mostre o
