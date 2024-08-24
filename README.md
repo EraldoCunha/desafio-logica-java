@@ -182,7 +182,7 @@ código for igual a zero.
 - [x] 54 . Escreva um algoritmo que calcule a média dos números digitados pelo usuário desde que eles
 sejam pares. Termine a leitura se o usuário digitar zero (0).
 
-- [ ] 55 . Escreva um algoritmo que leia 50 valores e encontre o maior e o menor deles. Mostre o
+- [x] 55 . Escreva um algoritmo que leia 50 valores e encontre o maior e o menor deles. Mostre o
 resultado.
 
 - [ ] 56 . Escreva um algoritmo que leia o código de um aluno e suas três notas. 
