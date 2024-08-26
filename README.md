@@ -194,7 +194,7 @@ restantes 3;
 >
 > 3. Repita a operação até que o código lido seja negativo.
 
-- [ ] 57 . Escreva um algoritmo que leia um número n (número de termos de uma progressão
+- [x] 57 . Escreva um algoritmo que leia um número n (número de termos de uma progressão
 aritmética), a1 (o primeiro termo da progressão) e r (a razão da progressão) e escreva
 os n termos desta progressão, bem como a soma dos elementos.
 
