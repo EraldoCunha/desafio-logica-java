@@ -198,7 +198,7 @@ restantes 3;
 aritmética), a1 (o primeiro termo da progressão) e r (a razão da progressão) e escreva
 os n termos desta progressão, bem como a soma dos elementos.
 
-- [ ] 58 . Escreva um algoritmo que leia 20 valores para uma variável n e, para cada um deles, calcule a
+- [x] 58 . Escreva um algoritmo que leia 20 valores para uma variável n e, para cada um deles, calcule a
 tabuada de 1 até n. Mostre a tabuada na forma:
 >i. 1 x n = n
 >
