@@ -210,7 +210,7 @@ tabuada de 1 até n. Mostre a tabuada na forma:
 >
 >v. n x n = n2
 
-- [ ] 59 . Escreva um algoritmo que leia um número n que indica quantos valores devem ser lidos a
+- [x] 59 . Escreva um algoritmo que leia um número n que indica quantos valores devem ser lidos a
 seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial deste valor.
 
 - [ ] 60 . Escreva um algoritmo que leia um número não determinado de valores e calcule a média
