@@ -217,7 +217,7 @@ seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fato
 aritmética dos valores lidos, a quantidade de valores positivos, a quantidade de valores
 negativos e o percentual de valores negativos e positivos. Mostre os resultados.
 
-- [ ] 61 . Escreva um algoritmo que leia uma quantidade desconhecida de números e conte quantos
+- [x] 61 . Escreva um algoritmo que leia uma quantidade desconhecida de números e conte quantos
 deles estão nos seguintes intervalos: [0-25], [26-50], [51-75] e [76-100]. A entrada de dados
 deve terminar quando for lido um número negativo.
 
