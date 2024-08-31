@@ -221,7 +221,7 @@ negativos e o percentual de valores negativos e positivos. Mostre os resultados.
 deles estão nos seguintes intervalos: [0-25], [26-50], [51-75] e [76-100]. A entrada de dados
 deve terminar quando for lido um número negativo.
 
-- [ ] 62 . Escreva um algoritmo que leia um conjunto não determinado de valores, um de cada vez, e
+- [x] 62 . Escreva um algoritmo que leia um conjunto não determinado de valores, um de cada vez, e
 escreve uma tabela com cabeçalho, que deve ser repetida a cada 20 linhas. A tabela conterá
 o valor lido, seu quadrado, seu cubo e sua raiz quadrada.
 
