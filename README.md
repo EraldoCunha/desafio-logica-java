@@ -225,7 +225,7 @@ deve terminar quando for lido um número negativo.
 escreve uma tabela com cabeçalho, que deve ser repetida a cada 20 linhas. A tabela conterá
 o valor lido, seu quadrado, seu cubo e sua raiz quadrada.
 
-- [ ] 63 . Escreva um algoritmo que leia um número não determinado de pares de valores m,n, todos
+- [x] 63 . Escreva um algoritmo que leia um número não determinado de pares de valores m,n, todos
 inteiros e positivos, um par de cada vez, e calcula e escreve a soma dos n inteiros
 consecutivos a partir de m inclusive.
 
