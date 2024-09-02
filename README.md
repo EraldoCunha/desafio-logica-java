@@ -229,7 +229,7 @@ o valor lido, seu quadrado, seu cubo e sua raiz quadrada.
 inteiros e positivos, um par de cada vez, e calcula e escreve a soma dos n inteiros
 consecutivos a partir de m inclusive.
 
-- [ ] 64 . Escreva um algoritmo que leia um número não determinado de valores para m, todos inteiros
+- [x] 64 . Escreva um algoritmo que leia um número não determinado de valores para m, todos inteiros
 e positivos, um de cada vez. Se m for par, verifique quantos divisores possui e escreva esta
 informação. Se m for ímpar e menor do que 10 calcule e escreva o fatorial de m. Se m for
 ímpar e maior ou igual a 10, calcule e escreva a soma dos inteiros de 1 até m.
