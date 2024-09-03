@@ -33,6 +33,8 @@ out/
 
 # Eclipse
 .settings/
+.classpath
+.project
 
 # Compiled binaries
 bin/
