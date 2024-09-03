@@ -30,3 +30,9 @@ out/
 *.iml
 *.ipr
 *.iws
+
+# Eclipse
+.settings/
+
+# Compiled binaries
+bin/
