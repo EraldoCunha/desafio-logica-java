@@ -234,7 +234,7 @@ e positivos, um de cada vez. Se m for par, verifique quantos divisores possui e 
 informação. Se m for ímpar e menor do que 10 calcule e escreva o fatorial de m. Se m for
 ímpar e maior ou igual a 10, calcule e escreva a soma dos inteiros de 1 até m.
 
-- [ ] 65 . Faça um algoritmo que leia uma quantidade não determinada de números positivos. Calcule a
+- [x] 65 . Faça um algoritmo que leia uma quantidade não determinada de números positivos. Calcule a
 quantidade de números pares e ímpares, a média de valores pares e a média geral dos
 números lidos. O número que encerrará a leitura será zero.
 
