@@ -238,7 +238,7 @@ informação. Se m for ímpar e menor do que 10 calcule e escreva o fatorial de 
 quantidade de números pares e ímpares, a média de valores pares e a média geral dos
 números lidos. O número que encerrará a leitura será zero.
 
-- [ ] 66 . Faça um algoritmo que leia vários números inteiros e calcule o somatório dos números
+- [x] 66 . Faça um algoritmo que leia vários números inteiros e calcule o somatório dos números
 negativos. O fim da leitura será indicado pelo número 0.
 
 - [ ] 67 . Faça um algoritmo que leia vários números inteiros e positivos e calcule o produto dos
