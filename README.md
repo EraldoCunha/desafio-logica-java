@@ -241,7 +241,7 @@ números lidos. O número que encerrará a leitura será zero.
 - [x] 66 . Faça um algoritmo que leia vários números inteiros e calcule o somatório dos números
 negativos. O fim da leitura será indicado pelo número 0.
 
-- [ ] 67 . Faça um algoritmo que leia vários números inteiros e positivos e calcule o produto dos
+- [x] 67 . Faça um algoritmo que leia vários números inteiros e positivos e calcule o produto dos
 números pares. O fim da leitura será indicado pelo número 0.
 
 - [ ] 68 . Foi feita uma pesquisa entre os habitantes de uma região. Foram coletados os dados de
