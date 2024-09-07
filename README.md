@@ -252,7 +252,7 @@ idade, sexo (M/F) e salário. Faça um algoritmo que informe:
 >
 >c. quantidade de mulheres com salário até R$100,00.
 
-- [ ] 69 . Encerre a entrada de dados quando for digitada uma idade negativa. (Use o comando
+- [x] 69 . Encerre a entrada de dados quando for digitada uma idade negativa. (Use o comando
 enquanto-faça e não use vetores ou matrizes)
 
 - [ ] 70 . Foi realizada uma pesquisa de algumas características físicas da população de uma certa
