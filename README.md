@@ -255,7 +255,7 @@ idade, sexo (M/F) e salário. Faça um algoritmo que informe:
 - [x] 69 . Encerre a entrada de dados quando for digitada uma idade negativa. (Use o comando
 enquanto-faça e não use vetores ou matrizes)
 
-- [ ] 70 . Foi realizada uma pesquisa de algumas características físicas da população de uma certa
+- [x] 70 . Foi realizada uma pesquisa de algumas características físicas da população de uma certa
 região, a qual coletou os seguintes dados referentes a cada habitante para serem analisados:
 >a. sexo (masculino e feminino)
 >
@@ -264,7 +264,9 @@ região, a qual coletou os seguintes dados referentes a cada habitante para sere
 >c. cor dos cabelos ( louros, castanhos, pretos)
 >
 >d. idade
-Faça um algoritmo que determine e escreva:
+> 
+> Faça um algoritmo que determine e escreva:
+> 
 >e. a maior idade dos habitantes
 >
 >f. a quantidade de indivíduos do sexo feminino cuja idade estiver entre 18 e 35 anos inclusive e que tenham olhos verdes e cabelos louros.
