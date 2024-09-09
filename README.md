@@ -272,3 +272,247 @@ região, a qual coletou os seguintes dados referentes a cada habitante para sere
 >f. a quantidade de indivíduos do sexo feminino cuja idade estiver entre 18 e 35 anos inclusive e que tenham olhos verdes e cabelos louros.
 
 O final do conjunto de habitantes é reconhecido pelo valor -1 entrada como idade.
+
+- [ ] 71 . Uma empresa deseja aumentar seus preços em 20%. Faça um algoritmo que leia o código e o
+preço de custo de cada produto e calcule o preço novo. Calcule também, a média dos preços
+com e sem aumento. Mostre o código e o preço novo de cada produto e, no final, as médias. A
+entrada de dados deve terminar quando for lido um código de produto negativo. (Use o
+comando enquanto-faça)
+
+- [ ] 72 . Escreva um algoritmo que gere o números de 1000 a 1999 e escreva aqueles que dividido por
+11 dão resto igual a 5.
+
+- [ ] 73 . Escreva um algoritmo que leia 500 valores inteiros e positivos e:
+>a. encontre o maior valor;
+>
+>b. encontre o menor valor;
+>
+>c. calcule a média dos números lidos.
+
+- [ ] 74 . Escreva um algoritmo que leia um valor n inteiro e positivo e que calcula a seguinte soma:
+>S := 1 + 1/2 + 1/3 + 1/4 + ... + 1/n
+
+O algoritmo deve escrever cada termo gerado e o valor final de S.
+
+- [ ] 75 . Escreva um algoritmo que calcule e mostre a média aritmética dos números lidos entre 13 e 73.
+
+- [ ] 76 . Escreva um algoritmo que gera e escreve os números ímpares entre 100 e 200.
+
+- [ ] 77 . Escreva um algoritmo que leia 10 valores, um de cada vez, e conta quantos deles estão no
+intervalo [10-20] e quantos deles estão fora do intervalo, escrevendo estas informações.
+
+- [ ] 78 . Escreva um algoritmo que leia 5 pares de valores a, b, todos inteiros e positivos, um par de
+cada vez, e com a < b, escreva os inteiros pares de a até b, incluindo o a e o b, se forem pares.
+
+- [ ] 79 . Escreva um algoritmo que leia um conjunto de 50 dados contendo, cada uma delas, a altura e
+o sexo de uma pessoa (código=1, masculino código=2, feminino), calcule e mostre o
+seguinte:
+>a. a maior e a menor altura da turma
+>
+>b. a média da altura das mulheres
+>
+>c. a média da altura da turma.
+
+- [ ] 80 . Escreva um algoritmo que leia um número N que indica quantos valores devem ser lidos a
+seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial deste valor.
+
+- [ ] 81 . Escreva um algoritmo que calcule e escreva o produto dos números primos entre 92 e 1478.
+      
+- [ ] 82 . Escreva um algoritmo que gere e escreva os 5 primeiros números perfeitos. Um número
+perfeito é aquele que é igual a soma dos seus divisores. (Ex.: 6 = 1+2+3; 28= 1+2+4+7+14 etc.).
+
+- [ ] 83 . Escreva um algoritmo que leia um valor n que indica quantos valores devem ser lidos para m,
+valores inteiros e positivos, com leitura de um valor de cada vez. Escreva uma tabela contendo
+o valor lido, o somatório dos inteiros de 1 até m e o fatorial de m.
+
+- [ ] 84 . Faça um algoritmo que leia as três notas de 50 alunos de uma turma. Para cada aluno, calcule
+a média ponderada, como segue: MP = ( n1*2 + n2*4 + n3*3 ) / 10
+Além disso, calcule a média geral da turma. Mostre a média de cada aluno e uma mensagem
+"Aprovado", caso a média seja maior ou igual a sete, e uma mensagem "Reprovado", caso
+contrário. Ao final, mostre a média geral.
+
+- [ ] 85 . Faça um algoritmo que calcule a seguinte soma: H = 10 + 10 + 10 + ... + 10. O algoritmo deve
+ler um número n (inteiro e positivo) e mostrar o resultado final de H. A soma deve ser
+calculada apenas uma vez.
+
+- [ ] 86 . Faça um algoritmo que leia 5 grupos de 4 valores (A,B,C,D) e mostre-os na ordem lida. Em
+seguida, ordene-os em ordem decrescente e mostre-os novamente, já ordenados.
+
+- [ ] 87 . Foi feita uma estatística nas 200 principais cidades brasileiras para coletar dados sobre
+acidentes de trânsito. Foram obtidos os seguintes dados:
+>a. código da cidade
+>
+>b. Estado (RS, SC, PR, SP, RJ, ...)
+>
+>c. número de veículos de passeio (em 1992)
+>
+>d. número de acidentes de trânsito com vítimas (em 1992)
+>
+Deseja-se saber:
+
+>e. qual o maior e o menor índice de acidentes de trânsito e a que cidades pertencem
+>
+>f. qual a média de veículos nas cidades brasileiras
+>
+>g. qual a média de acidentes com vítimas entre as cidades do Rio Grande do Sul.
+
+- [ ] 88 . Realizou-se uma pesquisa entre os 1000 habitantes de uma região para coletar os seguintes
+dados: sexo (0-feminino, 1-masculino), idade e altura. Faça um algoritmo que leia as
+informações coletadas e mostre as seguintes informações: (use o comando repita-até)
+>a. média da idade do grupo;
+>
+>b. média da altura das mulheres;
+>
+>c. média da idade dos homens;
+>
+>d. percentual de pessoas com idade entre 18 e 35 anos (inclusive).
+
+- [ ] 89 . Uma loja tem 150 clientes cadastrados e deseja mandar uma correspondência a cada um
+deles anunciando um bônus especial. Escreva um algoritmo que leia o nome do cliente e o
+valor das suas compras no ano passado e calcule um bônus de 10% se o valor das compras
+for menor que 500.000 e de15 %, caso contrário.
+
+- [ ] 90 . Faça um algoritmo que mostre os conceitos finais dos alunos de uma classe de 75 alunos,
+considerando (use o comando CASO):
+>a. os dados de cada aluno (número de matrícula e nota numérica final) serãofornecidos pelo usuário
+>
+>b. a tabela de conceitos segue abaixo:
+
+| Nota                    | Conceito |
+|-------------------------|----------|
+| de 0,0 a 4,9            | D        |
+| de 5,0 a 6,9            | C        |
+| de 7,0 a 8,9            | B        |
+| de 9,0 a 10,0           | A        |
+
+- [ ] 91 . Faça um algoritmo que leia 2 valores inteiros e positivos: X e Y. O algoritmo deve calcular e
+escrever a função potência X Y.
+
+- [ ] 92 . Faça um algoritmo que calcule a combinação e arranjo de um conjunto de tamanho N em
+subconjuntos de p elementos.
+
+- [ ] 93 . Faça um algoritmo que calcule os 20 primeiros números primos, dados os três primeiros 120,
+121 e 122.
+
+- [ ] 94 . Faça uma algoritmo que receba 2 números e divida o intervalo entre eles em 3 partes iguais.
+Obs. Faça a consistência para que os extremos não sejam iguais.
+
+- [ ] 95 . Faça uma algoritmo que receba duas datas e retorne a diferença entre elas em dias.
+      
+- [ ] 96 . Escreva um algoritmo que leia e mostre um vetor de 20 elementos inteiros. A seguir, conte
+quantos valores pares existem no vetor.
+
+- [ ] 97 . Escreva um algoritmo que leia dois vetores de 10 posições e faça a multiplicação dos
+elementos de mesmo índice, colocando o resultado em um terceiro vetor. Mostre o vetor
+resultante.
+
+- [ ] 98 . Elabore um algoritmo que leia um conjunto de 30 valores e os coloque em 2 vetores conforme
+os valores forem pares ou ímpares. O tamanho do vetor é de 10 posições. Se algum vetor
+estiver cheio, escreva-o informando que o seu espaço esgotou. Terminada a leitura escreva o
+conteúdo dos dois vetores. Cada vetor pode ser preenchido tantas vezes quantas for
+necessário.
+
+- [ ] 99 . Escreva um algoritmo que leia um vetor de 20 posições e mostre-o. Em seguida, troque o
+primeiro elemento com o último, o segundo com o penúltimo, o terceiro com o antepenúltimo,
+e assim sucessivamente. Mostre o novo vetor depois da troca.
+
+- [ ] 100 . Escreva um algoritmo que leia um vetor de 13 elementos inteiros, que é o Gabarito de um
+teste da loteria esportiva, contendo os valores 1(coluna 1), 2 (coluna 2) e 3 (coluna do meio).
+Leia, a seguir, para cada apostador, o número do seu cartão e um vetor de Respostas de 13
+posições. Verifique para cada apostador o números de acertos, comparando o vetor de
+Gabarito com o vetor de Respostas. Escreva o número do apostador e o número de acertos.
+Se o apostador tiver 13 acertos, mostre a mensagem "Ganhador".
+
+- [ ] 101 . Escreva um algoritmo que leia um vetor de 10 posições de números inteiros e imprima.
+Logo após, gerar 2 vetores a partir dele, um contendo os elementos de posições ímpares do
+vetor e o outro os elementos de posições pares. Imprimi-los no final.
+
+- [ ] 102 . Escreva um algoritmo que leia um vetor de 7 elementos inteiros. Encontre e mostre o
+menor elemento e sua posição no vetor.
+
+- [ ] 103 . Escreva um algoritmo que leia um vetor de 10 posições e mostre-o ordenado em ordem
+decrescente.
+
+- [ ] 104 . Escreva um algoritmo que leia um vetor inteiro de 12 posições e crie um segundo vetor,
+substituindo os valores nulos por 1. Mostre os 2 vetores.
+
+- [ ] 105 . Escreva um algoritmo que leia um vetor G de 10 posições do tipo caractere, que
+representa o gabarito de uma prova. A seguir, para cada um dos 20 alunos da turma, leia o
+vetor de respostas (R) do aluno de 10 posições do tipo caractere e conte o número de acertos.
+Mostre o nº de acertos do aluno e uma mensagem APROVADO, se a nota for maior ou igual a
+6; e mostre uma mensagem de REPROVADO, caso contrário.
+
+- [ ] 106 . Escreva um algoritmo que gere os 10 primeiros números primos acima de 100 e os
+armazena em um vetor de X(10) escrevendo, no final, o vetor X.
+
+- [ ] 107 . Escreva um algoritmo que lê 2 vetores de tamanho 10 e os escreva. Crie, a seguir, um
+vetor de 20 posições que contenha os elementos dos outros 2 vetores em ordem crescente.
+
+- [ ] 108 . Escreva um algoritmo que leia um vetor K(15) e o escreva. Crie, a seguir, um vetor P, que
+contenha todos os números primos de K. Escreva o vetor P.
+
+- [ ] 109 . Escreva um algoritmo que leia um vetor X(20) e o escreve. Escreva, a seguir, cada um dos
+valores distintos que aparecem em X dizendo quantas vezes cada valor aparece em X.
+
+- [ ] 110 . Faça um algoritmo que leia um código numérico inteiro e um vetor de 50 posições de
+números reais. Se o código for zero, termine o algoritmo. Se o código for 1, mostre o vetor na
+ordem direta. Se o código for 2, mostre o vetor na ordem inversa.
+
+- [ ] 111 . Faça um algoritmo que leia um vetor (A) de 100 posições. Em seguida, compacte o vetor,
+retirando os valores nulos e negativos. Coloque o resultado no vetor B.
+
+- [ ] 112 . Faça um algoritmo que leia um vetor de 500 posições de números inteiros e divida todos
+os seus elementos pelo maior valor do vetor. Mostre o vetor após os cálculos.
+
+- [ ] 113 . Faça um algoritmo que leia um vetor de 80 posições e encontre o menor valor. Mostre-o
+juntamente com seu número de ordem.
+
+- [ ] 114 . Faça um algoritmo que leia dois vetores (A e B) de 50 posições de números inteiros. O
+algoritmo deve, então, subtrair o primeiro elemento de A do último de B, acumulando o valor.
+Faça a subtração do segundo elemento de A do penúltimo de B, acumulando o valor, e assim
+por diante. Mostre o resultado da soma final.
+
+- [ ] 115 . Uma locadora de vídeos tem guardada, em um vetor de 50 posições, a quantidade de
+filmes retirados por seus clientes durante o ano de 2014. Agora, esta locadora está fazendo
+uma promoção e, para cada 10 filmes retirados, o cliente tem direito a uma locação grátis.
+Faça um algoritmo que crie um outro vetor contendo a quantidade de locações gratuitas a que
+cada cliente tem direito.
+
+- [ ] 116 . Gere a matriz transposta de uma matriz 5x5 dada pelo usuário (a transposta é obtida
+permutando-se as linhas e as colunas de uma matriz).
+
+- [ ] 117 . Uma matriz quadrada A, cujos elementos são designados por Ai,j, é dita simétrica se Ai,j =
+Aj,i. Constra um algoritmo para ler uma matriz NxN do usuário (onde o valor de N também é
+fornecido pelo usuário) e determinar se ela é ou não simétrica.
+
+- [ ] 118 . Uma clínica médica deseja fazer uma pesquisa com 100 pessoas e no final quer obter os
+seguintes resultados:
+>a) Número de mulheres com altura acima de 1,70m
+>
+>b) Percentual de homens acima do peso (IMC > 25 )
+>
+>c) Percentual de mulheres anoréxicas (IMC < 16 )
+>
+>d) Quantidade de homens baixos (< 1,60m)
+
+- [ ] 119 . Faça a função POW (base, expoente) que recebe base e expoente como parâmetros e
+retorna o valor de base elevado a expoente. Se os valores de base e expoente não forem
+inteiros a função deve retornar 0.
+
+- [ ] 120 . Faça uma função lógica para informar se um número inteiro é primo ou não. Utilize esta
+função para imprimir, separadamente, os números que são primos e os números que não são
+primos, de um conjunto de números inteiros positivos dados.
+
+- [ ] 121 . Faça uma função para calcular o máximo divisor comum de dois números. Utilize esta
+função para imprimir todos os pares de números que são primos entre si, de um conjunto de
+números inteiros positivos dados. Por exemplo, dados 3, 8, 12, 15 e 16, os pares de números
+primos entre si são: (3, 8), (3, 16), (8, 15) e (15,16).
+
+- [ ] 122 . Faça um procedimento para ler os elementos de um vetor. Faça um outro procedimento
+para escrever os elementos de um vetor. Faça mais um procedimento para ordenar
+crescentemente os elementos de um vetor. Faça um algoritmo principal que utilize esses
+procedimentos.
+
+- [ ] 123 . Faça uma função para calcular a distância entre dois pontos no plano cartesiano. Utilize
+esta função para calcular o perímetro e a área de um triângulo, dado pelas coordenadas de
+seus vértices no plano cartesiano.
