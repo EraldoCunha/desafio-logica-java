@@ -279,7 +279,7 @@ com e sem aumento. Mostre o código e o preço novo de cada produto e, no final,
 entrada de dados deve terminar quando for lido um código de produto negativo. (Use o
 comando enquanto-faça)
 
-- [ ] 72 . Escreva um algoritmo que gere o números de 1000 a 1999 e escreva aqueles que dividido por
+- [x] 72 . Escreva um algoritmo que gere o números de 1000 a 1999 e escreva aqueles que dividido por
 11 dão resto igual a 5.
 
 - [ ] 73 . Escreva um algoritmo que leia 500 valores inteiros e positivos e:
