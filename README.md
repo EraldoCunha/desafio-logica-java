@@ -294,7 +294,7 @@ comando enquanto-faça)
 
 O algoritmo deve escrever cada termo gerado e o valor final de S.
 
-- [ ] 75 . Escreva um algoritmo que calcule e mostre a média aritmética dos números lidos entre 13 e 73.
+- [x] 75 . Escreva um algoritmo que calcule e mostre a média aritmética dos números lidos entre 13 e 73.
 
 - [ ] 76 . Escreva um algoritmo que gera e escreve os números ímpares entre 100 e 200.
 
