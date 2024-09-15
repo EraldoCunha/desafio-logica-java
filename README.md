@@ -298,7 +298,7 @@ O algoritmo deve escrever cada termo gerado e o valor final de S.
 
 - [x] 76 . Escreva um algoritmo que gera e escreve os números ímpares entre 100 e 200.
 
-- [ ] 77 . Escreva um algoritmo que leia 10 valores, um de cada vez, e conta quantos deles estão no
+- [x] 77 . Escreva um algoritmo que leia 10 valores, um de cada vez, e conta quantos deles estão no
 intervalo [10-20] e quantos deles estão fora do intervalo, escrevendo estas informações.
 
 - [ ] 78 . Escreva um algoritmo que leia 5 pares de valores a, b, todos inteiros e positivos, um par de
