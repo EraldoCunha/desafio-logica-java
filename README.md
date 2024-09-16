@@ -301,7 +301,7 @@ O algoritmo deve escrever cada termo gerado e o valor final de S.
 - [x] 77 . Escreva um algoritmo que leia 10 valores, um de cada vez, e conta quantos deles estão no
 intervalo [10-20] e quantos deles estão fora do intervalo, escrevendo estas informações.
 
-- [ ] 78 . Escreva um algoritmo que leia 5 pares de valores a, b, todos inteiros e positivos, um par de
+- [x] 78 . Escreva um algoritmo que leia 5 pares de valores a, b, todos inteiros e positivos, um par de
 cada vez, e com a < b, escreva os inteiros pares de a até b, incluindo o a e o b, se forem pares.
 
 - [ ] 79 . Escreva um algoritmo que leia um conjunto de 50 dados contendo, cada uma delas, a altura e
