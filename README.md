@@ -304,7 +304,7 @@ intervalo [10-20] e quantos deles estão fora do intervalo, escrevendo estas inf
 - [x] 78 . Escreva um algoritmo que leia 5 pares de valores a, b, todos inteiros e positivos, um par de
 cada vez, e com a < b, escreva os inteiros pares de a até b, incluindo o a e o b, se forem pares.
 
-- [ ] 79 . Escreva um algoritmo que leia um conjunto de 50 dados contendo, cada uma delas, a altura e
+- [x] 79 . Escreva um algoritmo que leia um conjunto de 50 dados contendo, cada uma delas, a altura e
 o sexo de uma pessoa (código=1, masculino código=2, feminino), calcule e mostre o
 seguinte:
 >a. a maior e a menor altura da turma
