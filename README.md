@@ -313,7 +313,7 @@ seguinte:
 >
 >c. a média da altura da turma.
 
-- [ ] 80 . Escreva um algoritmo que leia um número N que indica quantos valores devem ser lidos a
+- [x] 80 . Escreva um algoritmo que leia um número N que indica quantos valores devem ser lidos a
 seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial deste valor.
 
 - [ ] 81 . Escreva um algoritmo que calcule e escreva o produto dos números primos entre 92 e 1478.
