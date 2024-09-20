@@ -316,7 +316,7 @@ seguinte:
 - [x] 80 . Escreva um algoritmo que leia um número N que indica quantos valores devem ser lidos a
 seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial deste valor.
 
-- [ ] 81 . Escreva um algoritmo que calcule e escreva o produto dos números primos entre 92 e 1478.
+- [x] 81 . Escreva um algoritmo que calcule e escreva o produto dos números primos entre 92 e 1478.
       
 - [ ] 82 . Escreva um algoritmo que gere e escreva os 5 primeiros números perfeitos. Um número
 perfeito é aquele que é igual a soma dos seus divisores. (Ex.: 6 = 1+2+3; 28= 1+2+4+7+14 etc.).
