@@ -321,7 +321,7 @@ seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fato
 - [x] 82 . Escreva um algoritmo que gere e escreva os 5 primeiros números perfeitos. Um número
 perfeito é aquele que é igual a soma dos seus divisores. (Ex.: 6 = 1+2+3; 28= 1+2+4+7+14 etc.).
 
-- [ ] 83 . Escreva um algoritmo que leia um valor n que indica quantos valores devem ser lidos para m,
+- [x] 83 . Escreva um algoritmo que leia um valor n que indica quantos valores devem ser lidos para m,
 valores inteiros e positivos, com leitura de um valor de cada vez. Escreva uma tabela contendo
 o valor lido, o somatório dos inteiros de 1 até m e o fatorial de m.
 
