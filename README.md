@@ -331,7 +331,7 @@ Além disso, calcule a média geral da turma. Mostre a média de cada aluno e um
 "Aprovado", caso a média seja maior ou igual a sete, e uma mensagem "Reprovado", caso
 contrário. Ao final, mostre a média geral.
 
-- [ ] 85 . Faça um algoritmo que calcule a seguinte soma: H = 10 + 10 + 10 + ... + 10. O algoritmo deve
+- [x] 85 . Faça um algoritmo que calcule a seguinte soma: H = 10 + 10 + 10 + ... + 10. O algoritmo deve
 ler um número n (inteiro e positivo) e mostrar o resultado final de H. A soma deve ser
 calculada apenas uma vez.
 
