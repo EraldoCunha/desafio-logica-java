@@ -335,7 +335,7 @@ contrário. Ao final, mostre a média geral.
 ler um número n (inteiro e positivo) e mostrar o resultado final de H. A soma deve ser
 calculada apenas uma vez.
 
-- [ ] 86 . Faça um algoritmo que leia 5 grupos de 4 valores (A,B,C,D) e mostre-os na ordem lida. Em
+- [x] 86 . Faça um algoritmo que leia 5 grupos de 4 valores (A,B,C,D) e mostre-os na ordem lida. Em
 seguida, ordene-os em ordem decrescente e mostre-os novamente, já ordenados.
 
 - [ ] 87 . Foi feita uma estatística nas 200 principais cidades brasileiras para coletar dados sobre
