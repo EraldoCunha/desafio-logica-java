@@ -338,7 +338,7 @@ calculada apenas uma vez.
 - [x] 86 . Faça um algoritmo que leia 5 grupos de 4 valores (A,B,C,D) e mostre-os na ordem lida. Em
 seguida, ordene-os em ordem decrescente e mostre-os novamente, já ordenados.
 
-- [ ] 87 . Foi feita uma estatística nas 200 principais cidades brasileiras para coletar dados sobre
+- [x] 87 . Foi feita uma estatística nas 200 principais cidades brasileiras para coletar dados sobre
 acidentes de trânsito. Foram obtidos os seguintes dados:
 >a. código da cidade
 >
