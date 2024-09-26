@@ -356,7 +356,7 @@ Deseja-se saber:
 >
 >g. qual a média de acidentes com vítimas entre as cidades do Rio Grande do Sul.
 
-- [ ] 88 . Realizou-se uma pesquisa entre os 1000 habitantes de uma região para coletar os seguintes
+- [x] 88 . Realizou-se uma pesquisa entre os 1000 habitantes de uma região para coletar os seguintes
 dados: sexo (0-feminino, 1-masculino), idade e altura. Faça um algoritmo que leia as
 informações coletadas e mostre as seguintes informações: (use o comando repita-até)
 >a. média da idade do grupo;
