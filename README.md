@@ -367,7 +367,7 @@ informações coletadas e mostre as seguintes informações: (use o comando repi
 >
 >d. percentual de pessoas com idade entre 18 e 35 anos (inclusive).
 
-- [ ] 89 . Uma loja tem 150 clientes cadastrados e deseja mandar uma correspondência a cada um
+- [x] 89 . Uma loja tem 150 clientes cadastrados e deseja mandar uma correspondência a cada um
 deles anunciando um bônus especial. Escreva um algoritmo que leia o nome do cliente e o
 valor das suas compras no ano passado e calcule um bônus de 10% se o valor das compras
 for menor que 500.000 e de15 %, caso contrário.
