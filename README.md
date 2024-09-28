@@ -372,7 +372,7 @@ deles anunciando um bônus especial. Escreva um algoritmo que leia o nome do cli
 valor das suas compras no ano passado e calcule um bônus de 10% se o valor das compras
 for menor que 500.000 e de15 %, caso contrário.
 
-- [ ] 90 . Faça um algoritmo que mostre os conceitos finais dos alunos de uma classe de 75 alunos,
+- [x] 90 . Faça um algoritmo que mostre os conceitos finais dos alunos de uma classe de 75 alunos,
 considerando (use o comando CASO):
 >a. os dados de cada aluno (número de matrícula e nota numérica final) serãofornecidos pelo usuário
 >
