@@ -385,7 +385,7 @@ considerando (use o comando CASO):
 | de 7,0 a 8,9            | B        |
 | de 9,0 a 10,0           | A        |
 
-- [ ] 91 . Faça um algoritmo que leia 2 valores inteiros e positivos: X e Y. O algoritmo deve calcular e
+- [x] 91 . Faça um algoritmo que leia 2 valores inteiros e positivos: X e Y. O algoritmo deve calcular e
 escrever a função potência X Y.
 
 - [ ] 92 . Faça um algoritmo que calcule a combinação e arranjo de um conjunto de tamanho N em
