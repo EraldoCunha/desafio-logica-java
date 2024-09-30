@@ -388,7 +388,7 @@ considerando (use o comando CASO):
 - [x] 91 . Faça um algoritmo que leia 2 valores inteiros e positivos: X e Y. O algoritmo deve calcular e
 escrever a função potência X Y.
 
-- [ ] 92 . Faça um algoritmo que calcule a combinação e arranjo de um conjunto de tamanho N em
+- [x] 92 . Faça um algoritmo que calcule a combinação e arranjo de um conjunto de tamanho N em
 subconjuntos de p elementos.
 
 - [ ] 93 . Faça um algoritmo que calcule os 20 primeiros números primos, dados os três primeiros 120,
