@@ -391,7 +391,7 @@ escrever a função potência X Y.
 - [x] 92 . Faça um algoritmo que calcule a combinação e arranjo de um conjunto de tamanho N em
 subconjuntos de p elementos.
 
-- [ ] 93 . Faça um algoritmo que calcule os 20 primeiros números primos, dados os três primeiros 120,
+- [x] 93 . Faça um algoritmo que calcule os 20 primeiros números primos, dados os três primeiros 120,
 121 e 122.
 
 - [ ] 94 . Faça uma algoritmo que receba 2 números e divida o intervalo entre eles em 3 partes iguais.
