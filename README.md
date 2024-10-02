@@ -394,7 +394,7 @@ subconjuntos de p elementos.
 - [x] 93 . Faça um algoritmo que calcule os 20 primeiros números primos, dados os três primeiros 120,
 121 e 122.
 
-- [ ] 94 . Faça uma algoritmo que receba 2 números e divida o intervalo entre eles em 3 partes iguais.
+- [x] 94 . Faça uma algoritmo que receba 2 números e divida o intervalo entre eles em 3 partes iguais.
 Obs. Faça a consistência para que os extremos não sejam iguais.
 
 - [ ] 95 . Faça uma algoritmo que receba duas datas e retorne a diferença entre elas em dias.
