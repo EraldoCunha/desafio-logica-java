@@ -397,7 +397,7 @@ subconjuntos de p elementos.
 - [x] 94 . Faça uma algoritmo que receba 2 números e divida o intervalo entre eles em 3 partes iguais.
 Obs. Faça a consistência para que os extremos não sejam iguais.
 
-- [ ] 95 . Faça uma algoritmo que receba duas datas e retorne a diferença entre elas em dias.
+- [x] 95 . Faça uma algoritmo que receba duas datas e retorne a diferença entre elas em dias.
       
 - [ ] 96 . Escreva um algoritmo que leia e mostre um vetor de 20 elementos inteiros. A seguir, conte
 quantos valores pares existem no vetor.
