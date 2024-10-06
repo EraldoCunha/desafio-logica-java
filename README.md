@@ -406,7 +406,7 @@ quantos valores pares existem no vetor.
 elementos de mesmo índice, colocando o resultado em um terceiro vetor. Mostre o vetor
 resultante.
 
-- [ ] 98 . Elabore um algoritmo que leia um conjunto de 30 valores e os coloque em 2 vetores conforme
+- [x] 98 . Elabore um algoritmo que leia um conjunto de 30 valores e os coloque em 2 vetores conforme
 os valores forem pares ou ímpares. O tamanho do vetor é de 10 posições. Se algum vetor
 estiver cheio, escreva-o informando que o seu espaço esgotou. Terminada a leitura escreva o
 conteúdo dos dois vetores. Cada vetor pode ser preenchido tantas vezes quantas for
