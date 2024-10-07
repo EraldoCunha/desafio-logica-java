@@ -412,7 +412,7 @@ estiver cheio, escreva-o informando que o seu espaço esgotou. Terminada a leitu
 conteúdo dos dois vetores. Cada vetor pode ser preenchido tantas vezes quantas for
 necessário.
 
-- [ ] 99 . Escreva um algoritmo que leia um vetor de 20 posições e mostre-o. Em seguida, troque o
+- [x] 99 . Escreva um algoritmo que leia um vetor de 20 posições e mostre-o. Em seguida, troque o
 primeiro elemento com o último, o segundo com o penúltimo, o terceiro com o antepenúltimo,
 e assim sucessivamente. Mostre o novo vetor depois da troca.
 
