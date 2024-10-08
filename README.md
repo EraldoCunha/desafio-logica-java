@@ -416,7 +416,7 @@ necessário.
 primeiro elemento com o último, o segundo com o penúltimo, o terceiro com o antepenúltimo,
 e assim sucessivamente. Mostre o novo vetor depois da troca.
 
-- [ ] 100 . Escreva um algoritmo que leia um vetor de 13 elementos inteiros, que é o Gabarito de um
+- [x] 100 . Escreva um algoritmo que leia um vetor de 13 elementos inteiros, que é o Gabarito de um
 teste da loteria esportiva, contendo os valores 1(coluna 1), 2 (coluna 2) e 3 (coluna do meio).
 Leia, a seguir, para cada apostador, o número do seu cartão e um vetor de Respostas de 13
 posições. Verifique para cada apostador o números de acertos, comparando o vetor de
