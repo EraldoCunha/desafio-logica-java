@@ -423,7 +423,7 @@ posições. Verifique para cada apostador o números de acertos, comparando o ve
 Gabarito com o vetor de Respostas. Escreva o número do apostador e o número de acertos.
 Se o apostador tiver 13 acertos, mostre a mensagem "Ganhador".
 
-- [ ] 101 . Escreva um algoritmo que leia um vetor de 10 posições de números inteiros e imprima.
+- [x] 101 . Escreva um algoritmo que leia um vetor de 10 posições de números inteiros e imprima.
 Logo após, gerar 2 vetores a partir dele, um contendo os elementos de posições ímpares do
 vetor e o outro os elementos de posições pares. Imprimi-los no final.
 
