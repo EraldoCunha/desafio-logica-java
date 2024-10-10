@@ -427,7 +427,7 @@ Se o apostador tiver 13 acertos, mostre a mensagem "Ganhador".
 Logo após, gerar 2 vetores a partir dele, um contendo os elementos de posições ímpares do
 vetor e o outro os elementos de posições pares. Imprimi-los no final.
 
-- [ ] 102 . Escreva um algoritmo que leia um vetor de 7 elementos inteiros. Encontre e mostre o
+- [x] 102 . Escreva um algoritmo que leia um vetor de 7 elementos inteiros. Encontre e mostre o
 menor elemento e sua posição no vetor.
 
 - [ ] 103 . Escreva um algoritmo que leia um vetor de 10 posições e mostre-o ordenado em ordem
