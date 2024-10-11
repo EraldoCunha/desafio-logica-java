@@ -430,7 +430,7 @@ vetor e o outro os elementos de posições pares. Imprimi-los no final.
 - [x] 102 . Escreva um algoritmo que leia um vetor de 7 elementos inteiros. Encontre e mostre o
 menor elemento e sua posição no vetor.
 
-- [ ] 103 . Escreva um algoritmo que leia um vetor de 10 posições e mostre-o ordenado em ordem
+- [x] 103 . Escreva um algoritmo que leia um vetor de 10 posições e mostre-o ordenado em ordem
 decrescente.
 
 - [ ] 104 . Escreva um algoritmo que leia um vetor inteiro de 12 posições e crie um segundo vetor,
