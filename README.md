@@ -433,7 +433,7 @@ menor elemento e sua posição no vetor.
 - [x] 103 . Escreva um algoritmo que leia um vetor de 10 posições e mostre-o ordenado em ordem
 decrescente.
 
-- [ ] 104 . Escreva um algoritmo que leia um vetor inteiro de 12 posições e crie um segundo vetor,
+- [x] 104 . Escreva um algoritmo que leia um vetor inteiro de 12 posições e crie um segundo vetor,
 substituindo os valores nulos por 1. Mostre os 2 vetores.
 
 - [ ] 105 . Escreva um algoritmo que leia um vetor G de 10 posições do tipo caractere, que
