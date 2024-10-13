@@ -436,7 +436,7 @@ decrescente.
 - [x] 104 . Escreva um algoritmo que leia um vetor inteiro de 12 posições e crie um segundo vetor,
 substituindo os valores nulos por 1. Mostre os 2 vetores.
 
-- [ ] 105 . Escreva um algoritmo que leia um vetor G de 10 posições do tipo caractere, que
+- [x] 105 . Escreva um algoritmo que leia um vetor G de 10 posições do tipo caractere, que
 representa o gabarito de uma prova. A seguir, para cada um dos 20 alunos da turma, leia o
 vetor de respostas (R) do aluno de 10 posições do tipo caractere e conte o número de acertos.
 Mostre o nº de acertos do aluno e uma mensagem APROVADO, se a nota for maior ou igual a
