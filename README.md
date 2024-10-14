@@ -442,7 +442,7 @@ vetor de respostas (R) do aluno de 10 posições do tipo caractere e conte o nú
 Mostre o nº de acertos do aluno e uma mensagem APROVADO, se a nota for maior ou igual a
 6; e mostre uma mensagem de REPROVADO, caso contrário.
 
-- [ ] 106 . Escreva um algoritmo que gere os 10 primeiros números primos acima de 100 e os
+- [x] 106 . Escreva um algoritmo que gere os 10 primeiros números primos acima de 100 e os
 armazena em um vetor de X(10) escrevendo, no final, o vetor X.
 
 - [ ] 107 . Escreva um algoritmo que lê 2 vetores de tamanho 10 e os escreva. Crie, a seguir, um
