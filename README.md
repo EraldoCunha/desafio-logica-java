@@ -445,7 +445,7 @@ Mostre o nº de acertos do aluno e uma mensagem APROVADO, se a nota for maior ou
 - [x] 106 . Escreva um algoritmo que gere os 10 primeiros números primos acima de 100 e os
 armazena em um vetor de X(10) escrevendo, no final, o vetor X.
 
-- [ ] 107 . Escreva um algoritmo que lê 2 vetores de tamanho 10 e os escreva. Crie, a seguir, um
+- [x] 107 . Escreva um algoritmo que lê 2 vetores de tamanho 10 e os escreva. Crie, a seguir, um
 vetor de 20 posições que contenha os elementos dos outros 2 vetores em ordem crescente.
 
 - [ ] 108 . Escreva um algoritmo que leia um vetor K(15) e o escreva. Crie, a seguir, um vetor P, que
