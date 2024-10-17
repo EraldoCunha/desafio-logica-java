@@ -451,7 +451,7 @@ vetor de 20 posições que contenha os elementos dos outros 2 vetores em ordem c
 - [x] 108 . Escreva um algoritmo que leia um vetor K(15) e o escreva. Crie, a seguir, um vetor P, que
 contenha todos os números primos de K. Escreva o vetor P.
 
-- [ ] 109 . Escreva um algoritmo que leia um vetor X(20) e o escreve. Escreva, a seguir, cada um dos
+- [x] 109 . Escreva um algoritmo que leia um vetor X(20) e o escreve. Escreva, a seguir, cada um dos
 valores distintos que aparecem em X dizendo quantas vezes cada valor aparece em X.
 
 - [ ] 110 . Faça um algoritmo que leia um código numérico inteiro e um vetor de 50 posições de
