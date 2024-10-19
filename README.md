@@ -458,7 +458,7 @@ valores distintos que aparecem em X dizendo quantas vezes cada valor aparece em 
 números reais. Se o código for zero, termine o algoritmo. Se o código for 1, mostre o vetor na
 ordem direta. Se o código for 2, mostre o vetor na ordem inversa.
 
-- [ ] 111 . Faça um algoritmo que leia um vetor (A) de 100 posições. Em seguida, compacte o vetor,
+- [x] 111 . Faça um algoritmo que leia um vetor (A) de 100 posições. Em seguida, compacte o vetor,
 retirando os valores nulos e negativos. Coloque o resultado no vetor B.
 
 - [ ] 112 . Faça um algoritmo que leia um vetor de 500 posições de números inteiros e divida todos
