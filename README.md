@@ -461,7 +461,7 @@ ordem direta. Se o código for 2, mostre o vetor na ordem inversa.
 - [x] 111 . Faça um algoritmo que leia um vetor (A) de 100 posições. Em seguida, compacte o vetor,
 retirando os valores nulos e negativos. Coloque o resultado no vetor B.
 
-- [ ] 112 . Faça um algoritmo que leia um vetor de 500 posições de números inteiros e divida todos
+- [x] 112 . Faça um algoritmo que leia um vetor de 500 posições de números inteiros e divida todos
 os seus elementos pelo maior valor do vetor. Mostre o vetor após os cálculos.
 
 - [ ] 113 . Faça um algoritmo que leia um vetor de 80 posições e encontre o menor valor. Mostre-o
