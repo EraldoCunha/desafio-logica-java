@@ -464,7 +464,7 @@ retirando os valores nulos e negativos. Coloque o resultado no vetor B.
 - [x] 112 . Faça um algoritmo que leia um vetor de 500 posições de números inteiros e divida todos
 os seus elementos pelo maior valor do vetor. Mostre o vetor após os cálculos.
 
-- [ ] 113 . Faça um algoritmo que leia um vetor de 80 posições e encontre o menor valor. Mostre-o
+- [x] 113 . Faça um algoritmo que leia um vetor de 80 posições e encontre o menor valor. Mostre-o
 juntamente com seu número de ordem.
 
 - [ ] 114 . Faça um algoritmo que leia dois vetores (A e B) de 50 posições de números inteiros. O
