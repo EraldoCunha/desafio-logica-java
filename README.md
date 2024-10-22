@@ -467,7 +467,7 @@ os seus elementos pelo maior valor do vetor. Mostre o vetor após os cálculos.
 - [x] 113 . Faça um algoritmo que leia um vetor de 80 posições e encontre o menor valor. Mostre-o
 juntamente com seu número de ordem.
 
-- [ ] 114 . Faça um algoritmo que leia dois vetores (A e B) de 50 posições de números inteiros. O
+- [x] 114 . Faça um algoritmo que leia dois vetores (A e B) de 50 posições de números inteiros. O
 algoritmo deve, então, subtrair o primeiro elemento de A do último de B, acumulando o valor.
 Faça a subtração do segundo elemento de A do penúltimo de B, acumulando o valor, e assim
 por diante. Mostre o resultado da soma final.
