@@ -472,7 +472,7 @@ algoritmo deve, então, subtrair o primeiro elemento de A do último de B, acumu
 Faça a subtração do segundo elemento de A do penúltimo de B, acumulando o valor, e assim
 por diante. Mostre o resultado da soma final.
 
-- [ ] 115 . Uma locadora de vídeos tem guardada, em um vetor de 50 posições, a quantidade de
+- [x] 115 . Uma locadora de vídeos tem guardada, em um vetor de 50 posições, a quantidade de
 filmes retirados por seus clientes durante o ano de 2014. Agora, esta locadora está fazendo
 uma promoção e, para cada 10 filmes retirados, o cliente tem direito a uma locação grátis.
 Faça um algoritmo que crie um outro vetor contendo a quantidade de locações gratuitas a que
