@@ -478,7 +478,7 @@ uma promoção e, para cada 10 filmes retirados, o cliente tem direito a uma loc
 Faça um algoritmo que crie um outro vetor contendo a quantidade de locações gratuitas a que
 cada cliente tem direito.
 
-- [ ] 116 . Gere a matriz transposta de uma matriz 5x5 dada pelo usuário (a transposta é obtida
+- [x] 116 . Gere a matriz transposta de uma matriz 5x5 dada pelo usuário (a transposta é obtida
 permutando-se as linhas e as colunas de uma matriz).
 
 - [ ] 117 . Uma matriz quadrada A, cujos elementos são designados por Ai,j, é dita simétrica se Ai,j =
