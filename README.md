@@ -481,8 +481,8 @@ cada cliente tem direito.
 - [x] 116 . Gere a matriz transposta de uma matriz 5x5 dada pelo usuário (a transposta é obtida
 permutando-se as linhas e as colunas de uma matriz).
 
-- [ ] 117 . Uma matriz quadrada A, cujos elementos são designados por Ai,j, é dita simétrica se Ai,j =
-Aj,i. Constra um algoritmo para ler uma matriz NxN do usuário (onde o valor de N também é
+- [x] 117 . Uma matriz quadrada A, cujos elementos são designados por A i,j, é dita simétrica se A i,j =
+A j,i. Constra um algoritmo para ler uma matriz NxN do usuário (onde o valor de N também é
 fornecido pelo usuário) e determinar se ela é ou não simétrica.
 
 - [ ] 118 . Uma clínica médica deseja fazer uma pesquisa com 100 pessoas e no final quer obter os
