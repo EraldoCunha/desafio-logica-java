@@ -485,7 +485,7 @@ permutando-se as linhas e as colunas de uma matriz).
 A j,i. Constra um algoritmo para ler uma matriz NxN do usuário (onde o valor de N também é
 fornecido pelo usuário) e determinar se ela é ou não simétrica.
 
-- [ ] 118 . Uma clínica médica deseja fazer uma pesquisa com 100 pessoas e no final quer obter os
+- [x] 118 . Uma clínica médica deseja fazer uma pesquisa com 100 pessoas e no final quer obter os
 seguintes resultados:
 >a) Número de mulheres com altura acima de 1,70m
 >
