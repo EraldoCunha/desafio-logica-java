@@ -495,7 +495,7 @@ seguintes resultados:
 >
 >d) Quantidade de homens baixos (< 1,60m)
 
-- [ ] 119 . Faça a função POW (base, expoente) que recebe base e expoente como parâmetros e
+- [x] 119 . Faça a função POW (base, expoente) que recebe base e expoente como parâmetros e
 retorna o valor de base elevado a expoente. Se os valores de base e expoente não forem
 inteiros a função deve retornar 0.
 
