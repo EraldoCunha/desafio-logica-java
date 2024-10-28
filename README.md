@@ -499,7 +499,7 @@ seguintes resultados:
 retorna o valor de base elevado a expoente. Se os valores de base e expoente não forem
 inteiros a função deve retornar 0.
 
-- [ ] 120 . Faça uma função lógica para informar se um número inteiro é primo ou não. Utilize esta
+- [x] 120 . Faça uma função lógica para informar se um número inteiro é primo ou não. Utilize esta
 função para imprimir, separadamente, os números que são primos e os números que não são
 primos, de um conjunto de números inteiros positivos dados.
 
