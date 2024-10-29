@@ -503,7 +503,7 @@ inteiros a função deve retornar 0.
 função para imprimir, separadamente, os números que são primos e os números que não são
 primos, de um conjunto de números inteiros positivos dados.
 
-- [ ] 121 . Faça uma função para calcular o máximo divisor comum de dois números. Utilize esta
+- [x] 121 . Faça uma função para calcular o máximo divisor comum de dois números. Utilize esta
 função para imprimir todos os pares de números que são primos entre si, de um conjunto de
 números inteiros positivos dados. Por exemplo, dados 3, 8, 12, 15 e 16, os pares de números
 primos entre si são: (3, 8), (3, 16), (8, 15) e (15,16).
