@@ -508,7 +508,7 @@ função para imprimir todos os pares de números que são primos entre si, de u
 números inteiros positivos dados. Por exemplo, dados 3, 8, 12, 15 e 16, os pares de números
 primos entre si são: (3, 8), (3, 16), (8, 15) e (15,16).
 
-- [ ] 122 . Faça um procedimento para ler os elementos de um vetor. Faça um outro procedimento
+- [x] 122 . Faça um procedimento para ler os elementos de um vetor. Faça um outro procedimento
 para escrever os elementos de um vetor. Faça mais um procedimento para ordenar
 crescentemente os elementos de um vetor. Faça um algoritmo principal que utilize esses
 procedimentos.
