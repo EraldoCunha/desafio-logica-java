@@ -513,6 +513,6 @@ para escrever os elementos de um vetor. Faça mais um procedimento para ordenar
 crescentemente os elementos de um vetor. Faça um algoritmo principal que utilize esses
 procedimentos.
 
-- [ ] 123 . Faça uma função para calcular a distância entre dois pontos no plano cartesiano. Utilize
+- [x] 123 . Faça uma função para calcular a distância entre dois pontos no plano cartesiano. Utilize
 esta função para calcular o perímetro e a área de um triângulo, dado pelas coordenadas de
 seus vértices no plano cartesiano.
